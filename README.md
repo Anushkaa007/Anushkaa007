@@ -2,7 +2,7 @@
 
 🧠 Neuroscience researcher sharing my journey and learnings in systems, circuit, and computational neuroscience. <br/>
 🔬 Currently working as a Project Associate at the Donders Institute for Brain, Cognition and Behaviour (Radboud University). <br/>
-🎓 MS in Interdisciplinary Biosciences (Neuroscience) graduate from [JNCASR](https://www.nature.com/nature-index/institution-outputs/india/jawaharlal-nehru-centre-for-advanced-scientific-research-jncasr/513906ba34d6b65e6a00007c), Bangalore, & BSc in Life Sciences from Presidency University. <br/>
+🎓 MS in Interdisciplinary Biosciences (Neuroscience) graduate from JNCASR, Bangalore, & BS in Life Sciences from Presidency University, Kolkata. <br/>
 🏆 Recipient of the Women in Memory Research Award (2025) and IBRO Speaker Support Award (2026). <br/>
 🌌 Passionate about memory circuits, neurotechnology, and space neuroscience. <br/>
 📃 Find my personal WebPage [here](https://sites.google.com/view/anushkasarkar)! <br/>
